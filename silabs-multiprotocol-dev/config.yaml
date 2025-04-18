@@ -1,11 +1,11 @@
 ---
 version: 2.4.6
-slug: silabs_multiprotocol_dev
+slug: silabs_multiprotocol-dev
 name: Silicon Labs Multiprotocol dev
 description: Zigbee and OpenThread multiprotocol add-on dev
-image: ghcr.io/regevbr/addons/{arch}-silabs-multiprotocol_dev
+image: ghcr.io/regevbr/{arch}-silabs-multiprotocol-dev
 url: >
-  https://github.com/regevbr/addons/tree/master/silabs-multiprotocol_dev
+  https://github.com/regevbr/addons/tree/master/silabs-multiprotocol-dev
 arch:
   - armv7
   - aarch64
