@@ -253,7 +253,6 @@ RUN \
        ${OTBR_BUILD_DEPS} \
     && rm -rf /var/lib/apt/lists/* \
     && rm -rf /usr/src/*
-
 COPY --from=zigbeed-builder \
      /usr/src/gecko_sdk/protocol/zigbee/app/zigbeed/output/build/debug/zigbeed \
      /usr/local/bin
