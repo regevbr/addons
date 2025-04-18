@@ -21,7 +21,6 @@ host_uts: true
 privileged:
   - IPC_LOCK
   - NET_ADMIN
-image: homeassistant/{arch}-addon-silabs-multiprotocol_dev
 init: false
 options:
   device: null
