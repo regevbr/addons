@@ -1,5 +1,5 @@
 ---
-version: 2.5.
+version: 2.5.1
 slug: silabs_multiprotocol-dev
 name: Silicon Labs Multiprotocol dev
 description: Zigbee and OpenThread multiprotocol add-on dev
